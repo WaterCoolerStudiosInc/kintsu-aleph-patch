@@ -1,9 +1,0 @@
----
-services:
-  Node0:
-    environment:
-      - ONLY_LEGACY_PROTOCOL=true
-
-  Node1:
-    environment:
-      - ONLY_LEGACY_PROTOCOL=true
